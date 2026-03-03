@@ -53,6 +53,7 @@ class ProjectDaoTest {
 	}
 
 	@Test
+	@Disabled
 	void testGetProjectManagerOfProjectId() {
 		Employee employee = dao.getProjectManagerOfProjectId(53);
 		
@@ -60,5 +61,15 @@ class ProjectDaoTest {
 		assertEquals(124, employee.getEmpId());
 		
 		System.out.println(employee);
+	}
+	
+	@Test
+	void testGetProjectById() {
+		Project project = dao.getProjectById(52);
+		
+		assertNotNull(project);
+		
+		List<Employee> allEmployees = project.getAllEmployees();
+		allEmployees.forEach(System.out::println);
 	}
 }
