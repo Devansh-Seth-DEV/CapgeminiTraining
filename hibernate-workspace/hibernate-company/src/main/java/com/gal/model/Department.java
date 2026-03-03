@@ -58,13 +58,7 @@ public class Department {
     
     @Override
     public String toString() {
-    	return """
-    			department: {
-    			  department_id: %s,
-    			  department_name: '%s',
-    			  manager_id: %s
-    			}
-    			"""
+    	return "Department[departmentId: %s, departmentName: '%s', managerId: %s]"
     			.formatted(
 			   departmentId,
 			   departmentName,

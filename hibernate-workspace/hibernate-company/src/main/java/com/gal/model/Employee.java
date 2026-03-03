@@ -57,7 +57,8 @@ public class Employee {
 		String jobTitle,
 		Double salary,
 		Integer managerId,
-		Integer deptId
+		Integer deptId,
+		String address
 	) {
 		super();
 		this.empId = empId;
@@ -70,6 +71,7 @@ public class Employee {
 		this.salary = salary;
 		this.managerId = managerId;
 		this.deptId = deptId;
+		this.address = address;
 	}
 
 	public int getEmpId() {
@@ -153,6 +155,7 @@ public class Employee {
 			salary = (Double) rs.getObject("salary");
 			managerId = (Integer) rs.getObject("manager_id");
 			deptId = (Integer) rs.getObject("department_id");
+			address = rs.getString("address");
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
@@ -165,24 +168,17 @@ public class Employee {
 	
 	@Override
 	public String toString() {
-		return """
-				employee: {
-				  employee_id: %s,
-				  first_name: '%s',
-				  last_name: '%s',
-				  email: '%s',
-				  phone_number: '%s',
-				  hire_date: '%s',
-				  salary: %s,
-				  manager_id: %s,
-				  department_id: %s,
-				  address: %s
-				}
-			   """.formatted(
-				   empId,
-				   firstName,
-				   lastName,
-				   email,
+		return "Employee[empId: %s, firstName: '%s', lastName: '%s', email: '%s', phno: '%s'"
+				.formatted(
+					empId,
+					firstName,
+					lastName,
+					email,
+					phno
+				) +
+				
+				"hireDate: '%s', salary: %s, managerId: %s, deptId: %s, address: '%s']"
+			   .formatted(
 				   phno,
 				   hireDate.toString(),
 				   salary,

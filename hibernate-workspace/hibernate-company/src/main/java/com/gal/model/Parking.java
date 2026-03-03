@@ -2,12 +2,15 @@ package com.gal.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 @Entity
 public class Parking {
 	@Id
 	@Column(name="parking_id")
+	@GeneratedValue(strategy = GenerationType.SEQUENCE)
 	private int parkingId;
 	
 	@Column(name="floor_number")
@@ -20,11 +23,22 @@ public class Parking {
 		super();
 	}
 
-	public Parking(int parkingId, int floorNo, String slotNo) {
+	public Parking(
+		int parkingId,
+		int floorNo,
+		String slotNo
+	) {
 		super();
 		this.parkingId = parkingId;
 		this.floorNo = floorNo;
 		this.slotNo = slotNo;
+	}
+	
+	public Parking(
+		int floorNo,
+		String slotNo
+	) {
+		this(0, floorNo, slotNo);
 	}
 
 	public int getParkingId() {
@@ -53,13 +67,7 @@ public class Parking {
 	
 	@Override
 	public String toString() {
-		return """
-				parking: {
-				  parking_id: %s,
-				  floor_number: %s,
-				  slot_number: '%s'
-				}
-				"""
+		return "Parking[parkingId: %s, floorNo: %s, slotNo: '%s']"
 				.formatted(
 					parkingId,
 					floorNo,
