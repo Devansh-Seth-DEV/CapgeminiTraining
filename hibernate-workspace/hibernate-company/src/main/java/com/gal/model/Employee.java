@@ -190,7 +190,9 @@ public class Employee {
 				   hireDate.toString(),
 				   salary,
 				   managerId,
-				   department.getDepartmentId(),
+				   department == null
+				   ? "null"
+				   : department.getDepartmentId(),
 				   address
 				);
 	}

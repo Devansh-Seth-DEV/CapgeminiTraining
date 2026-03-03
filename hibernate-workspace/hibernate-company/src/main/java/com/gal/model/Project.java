@@ -1,6 +1,8 @@
 package com.gal.model;
 
 import java.sql.Date;
+import java.util.ArrayList;
+import java.util.List;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -8,6 +10,8 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
+import jakarta.persistence.JoinTable;
+import jakarta.persistence.ManyToMany;
 import jakarta.persistence.OneToOne;
 
 @Entity
@@ -32,6 +36,18 @@ public class Project {
 	@OneToOne
 	@JoinColumn(name="project_manager_id")
 	private Employee projectManager;
+	
+	@ManyToMany
+	@JoinTable(
+		name="project_employee",
+		joinColumns = {
+			@JoinColumn(name="project_id")
+		},
+		inverseJoinColumns = {
+			@JoinColumn(name="employee_id")
+		}
+	)
+	List<Employee> allEmployees = new ArrayList<>();
 	
 	public Project() {
 		super();
@@ -126,6 +142,10 @@ public class Project {
 
 	public void setProjectManager(Employee projectManager) {
 		this.projectManager = projectManager;
+	}
+
+	public List<Employee> getAllEmployees() {
+		return allEmployees;
 	}
 
 	@Override
