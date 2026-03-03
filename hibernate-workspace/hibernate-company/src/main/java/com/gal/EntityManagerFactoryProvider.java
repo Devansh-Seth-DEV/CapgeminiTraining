@@ -11,6 +11,13 @@ public class EntityManagerFactoryProvider {
 	public static void main(String[] args) {
 		EntityManagerFactory emf = getEntityManagerFactory();
 		System.out.println(emf);
+		
+		close();
+	}
+	
+	public static void close() {
+		getEntityManager().close();
+		getEntityManagerFactory().close();
 	}
 
 	public static EntityManagerFactory getEntityManagerFactory() {
