@@ -5,7 +5,6 @@ import java.util.List;
 import com.gal.EntityManagerFactoryProvider;
 import com.gal.model.Employee;
 
-import jakarta.persistence.Entity;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.Query;
 
