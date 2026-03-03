@@ -10,11 +10,13 @@ public class Department {
 	@Column(name="department_id")
     private int departmentId;
 	
-	@Column(name="department_name")
+	@Column(name="department_name",
+			nullable=false)
     private String departmentName;
 	
 	@Column(name="manager_id")
-    private int managerId;
+	// Can be null hence `Integer` is used
+    private Integer managerId;
 	
 	public Department() {
 		super();
@@ -23,7 +25,7 @@ public class Department {
     public Department(
     		int departmentId,
     		String departmentName,
-        int managerId
+        Integer managerId
     ) {
         this.departmentId = departmentId;
         this.departmentName = departmentName;
@@ -50,7 +52,7 @@ public class Department {
         return managerId;
     }
 
-    public void setManagerId(int managerId) {
+    public void setManagerId(Integer managerId) {
         this.managerId = managerId;
     }
     
