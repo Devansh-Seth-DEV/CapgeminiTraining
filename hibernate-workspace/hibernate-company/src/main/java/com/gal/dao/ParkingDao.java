@@ -14,9 +14,9 @@ public class ParkingDao {
 	}
 	
 	public Parking addParking(Parking parking) {
-		em.getTransaction().begin(); // start the transaction
-		em.persist(parking);		// do the changes in db
-		em.getTransaction().commit(); // commit the transaction
+		em.getTransaction().begin(); 		// start the transaction
+		em.persist(parking);					// do the changes in db
+		em.getTransaction().commit(); 		// commit the transaction
 		return parking;
 	}
 }
