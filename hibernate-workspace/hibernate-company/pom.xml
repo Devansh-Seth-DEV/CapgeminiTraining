@@ -1,0 +1,83 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.gal</groupId>
+  <artifactId>hibernate-company</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>hibernate-company</name>
+  <description>hibernate demo company</description>
+  
+  <properties>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiiler.target>17</maven.compiiler.target>
+		<maven.compiler.release>17</maven.compiler.release>
+  </properties>
+
+  
+	<dependencies>
+		<!-- Source: https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>6.4.10.Final</version>
+		</dependency>
+
+		<!-- Source: https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>8.0.33</version>
+		</dependency>
+		
+		<!-- Source: https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter-api</artifactId>
+			<version>5.14.2</version>
+			<scope>test</scope>
+		</dependency>
+		
+		<!-- Source: https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-params -->
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter-params</artifactId>
+			<version>5.14.2</version>
+			<scope>test</scope>
+		</dependency>
+
+		<!-- Source: https://mvnrepository.com/artifact/org.junit.vintage/junit-vintage-engine -->
+		<dependency>
+			<groupId>org.junit.vintage</groupId>
+			<artifactId>junit-vintage-engine</artifactId>
+			<version>5.14.2</version>
+			<scope>test</scope>
+		</dependency>
+		
+		<dependency>
+		        <groupId>org.slf4j</groupId>
+		        <artifactId>slf4j-api</artifactId>
+		        <version>1.7.32</version> <!-- Use a relevant version -->
+		</dependency>
+		
+		    <!-- Logback Classic Implementation -->
+		    <dependency>
+		        <groupId>ch.qos.logback</groupId>
+		        <artifactId>logback-classic</artifactId>
+		        <version>1.2.9</version> <!-- Use a relevant version -->
+		    </dependency>
+	</dependencies>
+
+  <build>
+    <plugins>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.11.0</version>
+            <configuration>
+                <source>17</source>   <!-- Java source version -->
+                <target>17</target>   <!-- Java bytecode version -->
+            </configuration>
+        </plugin>
+    </plugins>
+</build>
+
+</project>
