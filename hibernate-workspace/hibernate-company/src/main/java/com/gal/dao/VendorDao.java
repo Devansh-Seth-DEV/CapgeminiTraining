@@ -1,19 +1,19 @@
 package com.gal.dao;
 
 import com.gal.EntityManagerFactoryProvider;
-import com.gal.model.Department;
+import com.gal.model.Vendor;
 
 import jakarta.persistence.EntityManager;
 
-public class DepartmentDao {
+public class VendorDao {
 	private static EntityManager em = null;
 	
 	static {
 		em = EntityManagerFactoryProvider.getEntityManager();
 	}
 	
-	public Department getDepartmentById(int deptId) {
-		Department department = em.find(Department.class, deptId);
-		return department;
+	public Vendor addVendor(Vendor vendor) {
+		em.persist(vendor);
+		return vendor;
 	}
 }
