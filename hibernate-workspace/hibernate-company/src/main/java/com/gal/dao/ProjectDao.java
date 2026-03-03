@@ -13,6 +13,11 @@ public class ProjectDao {
 		em = EntityManagerFactoryProvider.getEntityManager();
 	}
 	
+	public Project getProjectById(int projectId) {
+		Project project = em.find(Project.class, projectId);
+		return project;
+	}
+	
 	public Project addProject(Project project) {
 		em.persist(project);
 		return project;
@@ -21,5 +26,13 @@ public class ProjectDao {
 	public Employee getProjectManagerOfProjectId(int projectId) {
 		Project project = em.find(Project.class, projectId);
 		return project.getProjectManager();
+	}
+	
+	public Project setProjectManagerOfProjectId(int projectId, int managerId) {
+		Project project = getProjectById(projectId);
+		Employee manager = em.find(Employee.class, managerId);
+		
+		project.setProjectManager(manager);
+		return project;
 	}
 }
