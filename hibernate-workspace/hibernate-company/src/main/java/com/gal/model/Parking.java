@@ -5,6 +5,8 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.OneToOne;
 
 @Entity
 public class Parking {
@@ -18,6 +20,10 @@ public class Parking {
 	
 	@Column(name="slot_number")
 	private String slotNo;
+	
+	@OneToOne
+	@JoinColumn(name = "employee_id")
+	private Employee employee;
 	
 	public Parking() {
 		super();

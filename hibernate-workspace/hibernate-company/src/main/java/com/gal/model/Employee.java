@@ -7,6 +7,8 @@ import java.sql.SQLException;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 
 @Entity
@@ -38,10 +40,14 @@ public class Employee {
 	@Column(name="manager_id")
 	private Integer managerId;
 	
-	@Column(name="department_id")
-	private Integer deptId;
+//	@Column(name="department_id")
+//	private Integer deptId;
 	
 	private String address;
+	
+	@ManyToOne
+	@JoinColumn(name="department_id")
+	private Department department;
 	
 	public Employee() {
 		super();
@@ -57,7 +63,7 @@ public class Employee {
 		String jobTitle,
 		Double salary,
 		Integer managerId,
-		Integer deptId,
+//		Integer deptId,
 		String address
 	) {
 		super();
@@ -70,7 +76,7 @@ public class Employee {
 		this.jobTitle = jobTitle;
 		this.salary = salary;
 		this.managerId = managerId;
-		this.deptId = deptId;
+//		this.deptId = deptId;
 		this.address = address;
 	}
 
@@ -128,12 +134,13 @@ public class Employee {
 	public void setManagerId(Integer managerId) {
 		this.managerId = managerId;
 	}
-	public Integer getDeptId() {
-		return deptId;
-	}
-	public void setDeptId(Integer deptId) {
-		this.deptId = deptId;
-	}
+	
+//	public Integer getDeptId() {
+//		return deptId;
+//	}
+//	public void setDeptId(Integer deptId) {
+//		this.deptId = deptId;
+//	}
 	
 	public String getAddress() {
 		return address;
@@ -154,7 +161,7 @@ public class Employee {
 			jobTitle = rs.getString("job_title");
 			salary = (Double) rs.getObject("salary");
 			managerId = (Integer) rs.getObject("manager_id");
-			deptId = (Integer) rs.getObject("department_id");
+//			deptId = (Integer) rs.getObject("department_id");
 			address = rs.getString("address");
 		} catch (SQLException e) {
 			e.printStackTrace();
@@ -183,7 +190,7 @@ public class Employee {
 				   hireDate.toString(),
 				   salary,
 				   managerId,
-				   deptId,
+				   department.getDepartmentId(),
 				   address
 				);
 	}

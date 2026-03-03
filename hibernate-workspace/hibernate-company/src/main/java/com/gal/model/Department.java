@@ -1,8 +1,12 @@
 package com.gal.model;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
+import jakarta.persistence.OneToMany;
 
 @Entity
 public class Department {
@@ -17,6 +21,9 @@ public class Department {
 	@Column(name="manager_id")
 	// Can be null hence `Integer` is used
     private Integer managerId;
+	
+	@OneToMany(mappedBy="department")
+	private List<Employee> allEmployees = new ArrayList<>();
 	
 	public Department() {
 		super();
@@ -54,6 +61,10 @@ public class Department {
 
     public void setManagerId(Integer managerId) {
         this.managerId = managerId;
+    }
+    
+    public List<Employee> getAllEmployees() {
+    		return allEmployees;
     }
     
     @Override
