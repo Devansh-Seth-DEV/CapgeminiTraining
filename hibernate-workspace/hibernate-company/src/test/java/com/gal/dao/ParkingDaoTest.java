@@ -5,7 +5,6 @@ import static org.junit.Assert.assertNull;
 
 import org.junit.Test;
 import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Disabled;
 
 import com.gal.EntityManagerFactoryProvider;
@@ -15,12 +14,6 @@ import jakarta.persistence.EntityManager;
 
 public class ParkingDaoTest {
 	private static ParkingDao dao = new ParkingDao();
-	private static EntityManager em = null;
-	
-	@BeforeAll
-	public static void openConnections() {
-		em = EntityManagerFactoryProvider.getEntityManager();
-	}
 	
 	@AfterAll
 	public static void closeConnections() {
@@ -36,6 +29,7 @@ public class ParkingDaoTest {
 	
 	@Test
 	public void testAddParking() {
+		EntityManager em = EntityManagerFactoryProvider.getEntityManager();
 		Parking parking = new Parking(13, "SlotNo 4");
 		
 		em.getTransaction().begin();
