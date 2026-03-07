@@ -33,14 +33,67 @@ public class BookAuthorMappingDAO {
 	    }
 	}
 	
+	public Book getBookWithAuthors(int bookId) {
+		String sql = "SELECT" +
+					 "		b.book_id, b.title, b.isbn," +
+					 "		a.author_id, a.first_name, a.last_name" +
+					 "	FROM books b" +
+					 "	JOIN book_author_mapping bam" +
+					 "		ON b.book_id = bam.book_id" +
+					 "	JOIN authors a" +
+					 "		ON bam.author_id = a.author_id" +
+					 "	WHERE b.book_id = ?";
+		
+		try (Connection conn = DatabaseConnection.getConnection();
+			 PreparedStatement pstmt = conn.prepareStatement(sql)) {
+			
+			pstmt.setInt(1, bookId);
+			ResultSet rs = pstmt.executeQuery();
+			
+			if (!rs.next()) return null;
+
+			Book book = new Book();
+			book.setBookId(rs.getInt("book_id"));
+			book.setTitle(rs.getString("title"));
+			book.setIsbn(rs.getString("isbn"));
+			
+			book.getAuthors()
+				.add(new Author(
+						rs.getInt("author_id"),
+						rs.getString("first_name"),
+						rs.getString("last_name")
+					));
+
+			while(rs.next()) {
+				Author author = new Author();
+				author.setAuthorId(rs.getInt("author_id"));
+				author.setFirstName(rs.getString("first_name"));
+				author.setLastName(rs.getString("last_name"));
+				
+				book.getAuthors().add(author);
+			}
+			
+			return book;
+			
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		
+		return null;
+	}
+	
 	public List<Book> getAllBooksWithAuthors() {
 	    // We use a Map to track books we've already created
 	    Map<Integer, Book> bookMap = new LinkedHashMap<>();
 	    
-	    String sql = "SELECT b.book_id, b.title, b.isbn, a.author_id, a.first_name, a.last_name" +
+	    String sql = "SELECT" +
+	    			 "		b.book_id, b.title, b.isbn," +
+	    			 "		a.author_id, a.first_name, a.last_name" +
 	                 " FROM books b" +
-	                 " JOIN book_author_mapping bam ON b.book_id = bam.book_id" +
-	                 " JOIN authors a ON bam.author_id = a.author_id";
+	                 " JOIN book_author_mapping bam"+
+	                 "		ON b.book_id = bam.book_id" +
+	                 " JOIN authors a" +
+	                 "		ON bam.author_id = a.author_id";
 
 	    try (Connection conn = DatabaseConnection.getConnection();
 	         Statement stmt = conn.createStatement();
