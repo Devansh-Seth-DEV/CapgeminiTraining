@@ -1,5 +1,6 @@
 package com.library.model;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Book {
@@ -8,6 +9,11 @@ public class Book {
 	private String isbn;
 	
 	private List<Author> authors; // Collection to hold multiple authors
+
+	public Book() {
+		super();
+		authors = new ArrayList<>();
+	}
 
 	public Book(int bookId, String title, String isbn) {
 		this.bookId = bookId;

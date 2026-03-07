@@ -5,6 +5,10 @@ public class Author {
 	private String firstName;
 	private String lastName;
 	
+	public Author() {
+		super();
+	}
+	
 	public Author(int authorId, String firstName, String lastName) {
 		this.authorId = authorId;
 		this.firstName = firstName;
