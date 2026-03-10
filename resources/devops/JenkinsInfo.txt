@@ -1,0 +1,1 @@
+java -DJENKINS_HOME=<custom-path> -jar jenkins.war --httpPort=<port-number>
