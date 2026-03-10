@@ -1,0 +1,17 @@
+Jar File
+
+File mainfest.txt
+	1. Manifest-Version: 1.0
+	2. Main-Class: com.example.MainClass
+
+jar cfm MyApp.jar manifest.txt -C bin/ . # cf:= create file, m:= manifest, C:= where is my .classes file in and include it in that directory(bin/ .)
+
+jar cfe MyApp.jar com.example.MainClass -C bin/ . # telling where the entry point is
+
+java -jar MyApp.jar # Create the jar file
+
+java -cp MyApp.jar com.example.MainClass # -cp:= class path (in MyApp.jar file) and run this MainClass
+
+java -jar myproject.jar --server.port=9000
+
+jara -Dserver.port=9000 -jar myproject.jar // using system property
