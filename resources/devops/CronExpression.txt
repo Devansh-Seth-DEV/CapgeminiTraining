@@ -1,0 +1,8 @@
+  *      *          *         *         *
+Minute  Hour  Day-of-Month  Month  Day-of-Week
+
+00 18 * * * 1-5 // expression to run every week day at 6pm
+
+00 06 * * 6  // expression to tun every saturday morning 6am
+
+00 00 01 * * // expression to run every month 1st day
