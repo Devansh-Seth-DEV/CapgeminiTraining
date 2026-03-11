@@ -413,4 +413,4 @@ public void printSummary(Object obj) {
 
 ---
 
-#### ⚓ We’ve successfully learned the basics of Reflection API
+#### ⚓ We’ve successfully completed the basics of Reflection API
