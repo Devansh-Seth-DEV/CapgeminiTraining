@@ -7,12 +7,12 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import com.gal.EntityManagerFactoryProvider;
-import com.gal.model.Item;
+import com.gal.model.Vendor;
 
 import jakarta.persistence.EntityManager;
 
-class ItemDaoTest {
-	private static ItemDao dao = new ItemDao();
+class VendorDaoTest {
+	private static VendorDao dao = new VendorDao();
 	private static EntityManager em = null;
 	
 	@BeforeAll
@@ -24,19 +24,16 @@ class ItemDaoTest {
 	public static void closeConnections() {
 		EntityManagerFactoryProvider.close();
 	}
-
+	
 	@Test
-	void testAddItem() {
-		Item item = new Item("Electronics",
-							 "Laptop",
-							 55000);
+	void testAddVendor() {
+		Vendor vendor = new Vendor("Rahul Kumar");
 		
 		em.getTransaction().begin();
-		Item actual = dao.addItem(item);
+		Vendor actual = dao.addVendor(vendor);
 		em.getTransaction().commit();
 		
-		System.out.print(actual);
+		System.out.println(actual);
 		assertNotNull(actual);
 	}
-
 }
