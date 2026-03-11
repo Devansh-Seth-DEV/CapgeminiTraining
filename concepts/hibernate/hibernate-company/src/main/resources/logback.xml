@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Set the logging level for Hibernate to WARN to reduce verbosity -->
+    <logger name="org.hibernate" level="DEBUG" />
+    
+    <!-- Optional: set specific categories to DEBUG for detailed info -->
+    <logger name="org.hibernate.SQL" level="DEBUG" />
+    <logger name="org.hibernate.type" level="DEBUG" /> <!-- Logs JDBC parameters -->
+    <logger name="org.hibernate.jdbc" level="DEBUG" /> <!-- Logs connection activity -->
+
+    <root level="DEBUG">
+        <appender-ref ref="STDOUT" />
+    </root>
+</configuration>
