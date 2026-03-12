@@ -30,7 +30,7 @@ The `Class` object is that blueprint. Without it, you can't use Reflection. You 
 ### The 3 Ways to Get the "ID Card" 🆔
 Let's imagine we have a class named `User`. Here is how we get its "ID Card" (the Class object):
 
-#### 1. 1. The "I already have the object" way
+#### 1. The "I already have the object" way
 If you already have a `User` object in your hand, you can just ask it for its ID.
 
 ```java
