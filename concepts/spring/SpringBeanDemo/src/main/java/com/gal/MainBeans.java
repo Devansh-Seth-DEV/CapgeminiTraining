@@ -5,6 +5,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.gal.algo.Calc;
 import com.gal.algo.PasswordHasher;
+import com.gal.algo.UserVerifier;
 
 public class MainBeans {
 	public static void main(String[] args) {
@@ -43,10 +44,15 @@ public class MainBeans {
 		Object bean5 = context.getBean("myCalc");
 		Object bean6 = context.getBean("getCalc");
 		
-		ClassPathXmlApplicationContext xmlContext = new ClassPathXmlApplicationContext("beans.xml");
-		xmlContext.refresh();
+//		ClassPathXmlApplicationContext xmlContext = new ClassPathXmlApplicationContext("beans.xml");
+//		xmlContext.refresh();
+//		
+//		StringBuilder beanxml = xmlContext.getBean(StringBuilder.class);
+//		System.out.println(beanxml);
 		
-		StringBuilder beanxml = xmlContext.getBean(StringBuilder.class);
-		System.out.println(beanxml);
+		UserVerifier userVerifierBean = context.getBean(UserVerifier.class);
+		userVerifierBean.verfiyUser();
+		
+		context.close();
 	}
 }
