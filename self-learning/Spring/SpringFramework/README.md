@@ -1309,9 +1309,8 @@ Add this after `<context:annotation-config/>`
 Now Spring will automatically detect classes annotated with:
 
 - `@Component`
-- `@Autowire`
-- `@PostConstruct`
-- `@PreDestroy`
+- `@Service`
+- `@Controller`
 
 inside the specified package.
 
