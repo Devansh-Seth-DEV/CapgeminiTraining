@@ -3,6 +3,8 @@ package com.gal.service;
 import java.util.List;
 import java.util.Optional;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
@@ -17,6 +19,8 @@ import jakarta.transaction.Transactional;
 public class DepartmentServiceImpl2 implements DepartmentService {
 	@Autowired
 	DepartmentRepository repo;
+	
+	private static final Logger log = LoggerFactory.getLogger(DepartmentServiceImpl2.class);
 
 	@Override
 	public Department find(int deptId) {
@@ -33,20 +37,31 @@ public class DepartmentServiceImpl2 implements DepartmentService {
 
 	@Override
 	@Transactional
-	public void addDepartment(Department dept) {
-		repo.save(dept);
+	public Department addDepartment(Department dept) {
+		return repo.save(dept);
 	}
 
 	@Override
-	@Transactional
-	public void updateDepartment(Department dept) {
-		repo.save(dept);
+	public Department updateDepartment(Department dept) {
+		Optional<Department> opt = repo.findById(dept.getDepartmentId());
 		
+		if (opt.isEmpty()) {
+			log.error("Trying to update department not existing");
+			throw new RuntimeException("Department not exists");
+		}
+		
+		return repo.save(dept);
 	}
 
 	@Override
 	@Transactional
 	public void deleteDepartment(int deptId) {
 		repo.deleteById(deptId);
+	}
+	
+	@Override
+	public List<Department> findByManagerName(String firstName, String lastName) {
+		List<Department> depts = repo.findByManagerName(firstName.trim(), lastName.trim());
+		return depts;
 	}
 }

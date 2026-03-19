@@ -1,8 +1,12 @@
 package com.gal.model;
 
+import java.time.LocalDate;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.OneToOne;
 
 @Entity
 public class Department {
@@ -13,8 +17,12 @@ public class Department {
 	@Column(name="department_name")
 	String departmentName;
 	
-	@Column(name="managerId")
-	Integer managerId;
+	@OneToOne
+	@JoinColumn(name="manager_id")
+	private Employee manager;
+	
+	@Column(name="established_date")
+	LocalDate establishedDate;
 
 	public int getDepartmentId() {
 		return departmentId;
@@ -32,17 +40,27 @@ public class Department {
 		this.departmentName = departmentName;
 	}
 
-	public Integer getManagerId() {
-		return managerId;
+	public Employee getManager() {
+		return manager;
 	}
 
-	public void setManagerId(Integer managerId) {
-		this.managerId = managerId;
+	public void setManager(Employee manager) {
+		this.manager = manager;
+	}
+
+	public LocalDate getEstablishedDate() {
+		return establishedDate;
+	}
+
+	public void setEstablishedDate(LocalDate establishedDate) {
+		this.establishedDate = establishedDate;
 	}
 
 	@Override
 	public String toString() {
-		return String.format("Department [departmentId=%s, departmentName=%s, managerId=%s]", departmentId,
-				departmentName, managerId);
+		return String.format("Department [departmentId=%s, departmentName=%s, managerId=%s, establishedDate=%s]", departmentId,
+				departmentName,
+				manager==null ? "null" : manager.getEmployeeId(),
+				establishedDate);
 	}
 }

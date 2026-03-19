@@ -12,9 +12,11 @@ public interface DepartmentService {
 
 	List<Department> findAll();
 	
-	void addDepartment(Department dept);
+	Department addDepartment(Department dept);
 	
-	void updateDepartment(Department dept);
+	Department updateDepartment(Department dept);
 	
 	void deleteDepartment(int deptId);
+
+	List<Department> findByManagerName(String firstName, String lastName);
 }

@@ -1,0 +1,772 @@
+816  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 15724 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+821  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+823  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5469 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 5.041 seconds (process running for 5.635)
+801  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+805  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+808  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5347 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 4.927 seconds (process running for 5.952)
+5730 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+5731 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+5731 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+285361 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+285362 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+285362 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+394007 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+394007 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+394007 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+420603 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+420603 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+420603 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+444739 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+444739 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+444739 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+445320 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.602 seconds (process running for 445.925)
+445384 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+445384 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+445384 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+576762 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+576762 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+576762 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+577226 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.487 seconds (process running for 577.831)
+577280 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+577280 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+577280 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+620487 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+620487 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+620487 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+620996 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.541 seconds (process running for 621.601)
+776014 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+776014 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+776014 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+776231 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+776231 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+776231 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+776771 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.777 seconds (process running for 777.376)
+909425 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+909425 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+909425 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+909434 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+909434 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+909434 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+909759 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+909759 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+909759 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+910544 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.159 seconds (process running for 911.149)
+910568 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+910568 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+910568 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+1066047 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1066047 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1066047 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1066076 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1066076 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1066076 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1066380 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1066381 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1066381 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1066797 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.744 seconds (process running for 1067.401)
+1066861 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+1066861 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+1066861 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+1069568 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1069568 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1069568 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1070278 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1070278 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1070278 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1070560 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1070560 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1070560 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1070892 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.633 seconds (process running for 1071.497)
+1070957 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+1070957 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+1070957 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+869  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24372 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+871  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+872  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5820 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 5.37 seconds (process running for 6.282)
+6060 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+6060 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+6060 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+50049 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24372 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+50049 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+50049 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+50737 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.721 seconds (process running for 51.2)
+50793 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+50793 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+50793 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+175487 [http-nio-8085-exec-1] DEBUG com.gal.api.DepartmentController - request for deparmentId: 10
+311959 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24372 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+311959 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+311959 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+312711 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.788 seconds (process running for 313.174)
+312777 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+312778 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+312778 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+338723 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24372 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+338723 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+338723 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+339249 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.55 seconds (process running for 339.712)
+339313 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+339313 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+339313 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+558216 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24372 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+558217 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+558217 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+558725 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.532 seconds (process running for 559.188)
+558787 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+558787 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+558787 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+1457862 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24372 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1457863 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1457863 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1458556 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.721 seconds (process running for 1459.019)
+1458615 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+1458615 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+1458615 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+1622431 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24372 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1622431 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1622431 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1622713 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.296 seconds (process running for 1623.175)
+1622743 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+1622744 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+1622744 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+1656773 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24372 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1656773 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1656773 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1657056 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.297 seconds (process running for 1657.519)
+1657085 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+1657085 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+1657085 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+1723502 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24372 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1723502 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1723503 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1770807 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24372 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1770807 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1770807 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+417  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 4040 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+418  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+419  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+418  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24768 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+421  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+422  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+426  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 6872 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+427  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+428  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3389 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.183 seconds (process running for 3.637)
+3392 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+3392 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+3392 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+58159 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 6872 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+58159 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+58159 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+58501 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.356 seconds (process running for 58.748)
+58502 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+58502 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+58502 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+427  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24784 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+429  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+430  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+424  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 1524 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+426  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+427  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3140 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.941 seconds (process running for 3.368)
+3142 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+3142 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+3142 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+80788 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 1524 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+80788 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+80789 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+81164 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.395 seconds (process running for 81.392)
+81166 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+81166 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+81166 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+98854 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 1524 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+98854 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+98854 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+99013 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 1524 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+99013 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+99013 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+99218 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.374 seconds (process running for 99.446)
+99219 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+99219 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+99219 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+431  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24704 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+434  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+434  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3150 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.94 seconds (process running for 3.391)
+3152 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+3152 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+3152 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+4242079 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24704 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+4242079 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4242079 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4242568 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.507 seconds (process running for 4242.821)
+4242569 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+4242569 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+4242569 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+4250093 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24704 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+4250093 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4250093 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4250240 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24704 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+4250240 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4250240 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4250489 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.406 seconds (process running for 4250.743)
+4250490 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+4250490 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+4250490 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+419  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21228 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+421  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+422  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3255 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.05 seconds (process running for 3.494)
+3257 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+3257 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+3257 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+130735 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21228 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+130735 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+130735 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+131109 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.392 seconds (process running for 131.349)
+131111 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+131111 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+131111 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+425  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 18844 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+427  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+428  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3206 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.998 seconds (process running for 3.452)
+3208 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+3208 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+3208 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+37246 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 18844 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+37246 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+37246 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+37611 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.382 seconds (process running for 37.858)
+37613 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+37613 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+37613 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+50207 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 18844 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+50207 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+50207 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+50367 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 18844 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+50367 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+50367 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+50568 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.371 seconds (process running for 50.814)
+50569 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+50569 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+50569 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+427  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 8512 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+428  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+429  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2912 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.706 seconds (process running for 3.148)
+2914 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+2914 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+2914 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+115002 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 8512 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+115003 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+115003 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+115363 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.378 seconds (process running for 115.599)
+115365 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+115365 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+115365 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+302707 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 8512 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+302708 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+302708 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+303076 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.384 seconds (process running for 303.312)
+303077 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+303077 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+303077 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+320882 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 8512 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+320882 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+320882 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+321173 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.303 seconds (process running for 321.409)
+321174 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+321174 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+321174 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+782  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 26264 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+785  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+785  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5778 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 5.385 seconds (process running for 6.192)
+5782 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+5782 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+5782 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+432079 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 26264 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+432079 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+432079 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+432800 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.75 seconds (process running for 433.213)
+432802 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+432802 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+432802 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+481248 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 26264 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+481249 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+481249 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+481708 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.48 seconds (process running for 482.121)
+481709 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+481709 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+481709 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+490476 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 26264 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+490476 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+490476 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+490903 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.446 seconds (process running for 491.316)
+490904 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+490904 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+490905 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+515926 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 26264 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+515926 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+515926 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+516355 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.449 seconds (process running for 516.769)
+516357 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+516357 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+516357 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+559509 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 26264 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+559509 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+559509 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+560098 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.614 seconds (process running for 560.512)
+560100 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+560100 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+560100 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+798  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 24164 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+801  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+802  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+579  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 4144 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+582  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+583  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4160 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.874 seconds (process running for 4.505)
+4163 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+4163 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+4163 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+164593 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 4144 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+164593 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+164593 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+165297 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.735 seconds (process running for 165.642)
+165300 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+165300 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+165300 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+265729 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 4144 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+265729 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+265729 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+266321 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.615 seconds (process running for 266.666)
+266322 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+266322 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+266322 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+576927 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 4144 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+576928 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+576928 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+577539 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.654 seconds (process running for 577.884)
+577540 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+577540 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+577540 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+686428 [http-nio-8085-exec-10] DEBUG com.gal.api.DepartmentController - Request for adding department Department [departmentId=60, departmentName=Customer Support, managerId=null, establishedDate=2017-05-12]
+751762 [http-nio-8085-exec-3] DEBUG com.gal.api.DepartmentController - Request for adding department Department [departmentId=60, departmentName=Customer Support, managerId=201, establishedDate=2017-05-12]
+776964 [http-nio-8085-exec-4] DEBUG com.gal.api.DepartmentController - Request for adding department Department [departmentId=60, departmentName=Customer Support, managerId=201, establishedDate=2017-05-12]
+888352 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 4144 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+888352 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+888352 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+888941 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.617 seconds (process running for 889.286)
+888943 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+888943 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+888943 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+891676 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 4144 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+891677 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+891677 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+892374 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.727 seconds (process running for 892.724)
+892374 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+892374 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+892374 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+966097 [http-nio-8085-exec-2] DEBUG com.gal.api.DepartmentController - request for updating department data Department [departmentId=60, departmentName=Finance, managerId=201, establishedDate=2017-05-12]
+997  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 5532 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1000 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1001 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+7650 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 7.132 seconds (process running for 12.776)
+7655 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+7655 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+7655 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+16986 [http-nio-8085-exec-2] DEBUG com.gal.api.DepartmentController - Request for adding department Department [departmentId=60, departmentName=Customer Support, managerId=201, establishedDate=2017-05-12]
+544  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 10596 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+547  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+548  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4389 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 4.124 seconds (process running for 5.025)
+4394 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+4394 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+4394 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+9906 [http-nio-8085-exec-1] INFO  com.gal.api.EmployeeController - Fetching employees by name: Steven King
+224383 [http-nio-8085-exec-7] INFO  com.gal.api.EmployeeController - Fetching employees by name: Steven 
+233628 [http-nio-8085-exec-8] INFO  com.gal.api.EmployeeController - Fetching employees by name: Steven S
+339862 [http-nio-8085-exec-3] INFO  com.gal.api.EmployeeController - Fetching employees by name: Steven King
+1135404 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 10596 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1135404 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1135404 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1136074 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.696 seconds (process running for 1136.709)
+1136077 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+1136077 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+1136077 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+1191312 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 10596 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1191313 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1191313 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1191699 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.404 seconds (process running for 1192.334)
+1191700 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+1191700 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+1191700 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+1214601 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 10596 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1214601 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1214601 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1214981 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.397 seconds (process running for 1215.617)
+1214982 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+1214982 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+1214982 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+1219589 [http-nio-8085-exec-2] INFO  com.gal.api.EmployeeController - Fetching employees by name: Steven King
+1516500 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 10596 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1516500 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1516500 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1516846 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.362 seconds (process running for 1517.482)
+1516847 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+1516847 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+1516847 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+1714723 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 10596 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1714723 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1714723 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1715134 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.43 seconds (process running for 1715.77)
+1715135 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+1715135 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+1715135 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+1745027 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 10596 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1745027 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1745027 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1745366 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.36 seconds (process running for 1746.001)
+1745367 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+1745367 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+1745367 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+1847629 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 10596 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1847629 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1847629 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1847959 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.344 seconds (process running for 1848.595)
+1847961 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+1847961 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+1847961 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+1881149 [http-nio-8085-exec-2] DEBUG com.gal.api.DepartmentController - request for deparmentId: 10
+1887311 [http-nio-8085-exec-3] DEBUG com.gal.api.DepartmentController - request for deparmentId: 10
+1901000 [http-nio-8085-exec-6] DEBUG com.gal.api.DepartmentController - request for deparmentId: 10
+1906836 [http-nio-8085-exec-4] DEBUG com.gal.api.DepartmentController - request for deparmentId: 10
+1931859 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 10596 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1931859 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1931860 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1932201 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.364 seconds (process running for 1932.837)
+1932202 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+1932202 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+1932202 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+2084717 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 10596 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+2084717 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+2084717 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2085085 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.386 seconds (process running for 2085.721)
+2085087 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+2085087 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+2085087 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+2169932 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 10596 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+2169932 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+2169932 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2170265 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.349 seconds (process running for 2170.9)
+2170266 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+2170266 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+2170266 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+447  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+448  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+449  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3780 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.563 seconds (process running for 4.073)
+3783 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+3783 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+3783 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+7466 [http-nio-8085-exec-1] DEBUG com.gal.api.DepartmentController - request for deparmentId: 10
+142344 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+142344 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+142344 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+142733 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.423 seconds (process running for 143.026)
+142734 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+142735 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+142735 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+149665 [http-nio-8085-exec-2] DEBUG com.gal.api.DepartmentController - request for deparmentId: 10
+230354 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+230354 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+230354 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+230730 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.395 seconds (process running for 231.023)
+230731 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+230731 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+230731 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+249526 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+249526 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+249527 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+249891 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.381 seconds (process running for 250.185)
+249892 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+249892 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+249892 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+444744 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+444744 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+444744 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+445097 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.372 seconds (process running for 445.39)
+445098 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+445098 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+445098 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+548382 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+548382 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+548383 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+548740 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.377 seconds (process running for 549.033)
+548741 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+548741 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+548741 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+708163 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+708164 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+708164 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+708511 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.366 seconds (process running for 708.804)
+708511 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+708511 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+708511 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+842705 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+842705 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+842705 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+843048 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.358 seconds (process running for 843.341)
+843051 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+843051 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+843051 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+913456 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+913457 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+913457 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+983991 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 21560 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+983991 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+983991 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+469  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 26468 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+471  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+471  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3716 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.483 seconds (process running for 4.027)
+3718 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+3718 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+3718 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+486  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+487  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+488  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3523 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.292 seconds (process running for 3.817)
+3528 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+3528 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+3528 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+1797382 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+1797382 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1797383 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1798097 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.752 seconds (process running for 1798.418)
+1798099 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+1798099 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+1798099 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+2417661 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+2417661 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+2417661 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2418135 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.496 seconds (process running for 2418.455)
+2418136 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+2418136 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+2418136 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+3293820 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+3293820 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+3293821 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3294542 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.768 seconds (process running for 3294.862)
+3294543 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+3294543 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+3294543 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+3454132 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+3454132 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+3454132 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3900059 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+3900059 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+3900059 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4185624 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+4185624 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4185624 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4198430 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+4198430 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4198430 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4239531 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+4239531 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4239531 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4377509 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+4377509 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4377509 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4475497 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+4475497 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4475497 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4795039 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+4795039 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4795039 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4868502 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+4868502 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4868502 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4889417 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+4889417 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4889417 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4895024 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+4895024 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4895024 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4958454 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+4958455 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4958455 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5049843 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+5049843 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+5049843 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5059585 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+5059586 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+5059586 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5117731 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+5117731 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+5117731 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5134411 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+5134411 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+5134411 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5169209 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+5169209 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+5169209 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5500741 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+5500741 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+5500741 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5529709 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+5529709 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+5529709 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5546547 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+5546547 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+5546547 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+5582551 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 14464 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+5582551 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+5582551 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+472  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 16896 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+473  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+474  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+458  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 20716 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+459  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+461  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3539 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.307 seconds (process running for 3.804)
+3542 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+3542 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+3542 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+492  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 4940 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+495  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+496  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4176 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.933 seconds (process running for 6.665)
+4308 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+4308 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+4308 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+119331 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 4940 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+119331 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+119331 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+119806 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.494 seconds (process running for 122.295)
+451  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 16584 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+453  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+454  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3548 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.328 seconds (process running for 3.84)
+459  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 15596 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+462  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+463  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3515 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.297 seconds (process running for 3.779)
+467  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 27280 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+469  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+470  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3739 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.507 seconds (process running for 4.03)
+3836 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+3836 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+3836 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+39823 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 27280 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+39823 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+39823 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+40304 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.499 seconds (process running for 40.595)
+40325 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+40325 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+40325 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+487  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 20080 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+489  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+489  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3643 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.399 seconds (process running for 3.961)
+3751 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+3751 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+3751 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+72374 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 20080 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+72375 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+72375 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+72871 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.518 seconds (process running for 73.19)
+72881 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+72881 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+72881 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+189127 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 20080 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+189127 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+189127 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+189533 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.425 seconds (process running for 189.852)
+189543 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+189543 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+189543 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+213434 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 20080 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+213434 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+213434 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+213840 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.423 seconds (process running for 214.158)
+213849 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+213849 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+213849 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+296075 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 20080 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+296075 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+296075 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+296462 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.405 seconds (process running for 296.78)
+296483 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+296483 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+296483 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+347640 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 20080 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+347640 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+347640 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+348028 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.404 seconds (process running for 348.347)
+375974 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 20080 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+375974 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+375974 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+376383 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.424 seconds (process running for 376.701)
+376401 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+376401 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+376401 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+385075 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 20080 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+385075 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+385075 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+385474 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.417 seconds (process running for 385.793)
+385485 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+385485 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+385485 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+659404 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 20080 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+659404 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+659404 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+659835 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.449 seconds (process running for 660.153)
+659843 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+659843 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+659843 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+480  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 15088 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+482  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+483  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3909 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.67 seconds (process running for 4.177)
+3979 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+3979 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+3979 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+429113 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 15088 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+429113 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+429113 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+501  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 8948 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+502  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+502  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+3952 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.704 seconds (process running for 4.255)
+4024 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+4024 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+4024 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+142747 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 8948 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+142747 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+142747 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+143220 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.491 seconds (process running for 143.523)
+143230 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+143230 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+143230 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+148935 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 8948 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+148935 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+148935 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+149378 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.46 seconds (process running for 149.681)
+149386 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+149386 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+149386 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
+176366 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.18 with PID 8948 (W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany\target\classes started by sethm in W:\Source\Java\Capgemini\Training\eclipse-workspace\Spring\bootcompany)
+176366 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+176366 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+176768 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.419 seconds (process running for 177.071)
+176778 [restartedMain] INFO  com.gal.BootcompanyApplication - Application started successfully
+176779 [restartedMain] ERROR com.gal.BootcompanyApplication - message for error test logging
+176779 [restartedMain] INFO  com.gal.BootcompanyApplication - DepartmentService Bean is created successfully
