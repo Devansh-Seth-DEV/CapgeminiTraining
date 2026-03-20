@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -65,5 +66,21 @@ public class DepartmentController {
 	Department updateDepartment(@RequestBody Department dept) {
 		log.debug("request for updating department data " + dept);
 		return deptService.updateDepartment(dept);
+	}
+	
+	@ExceptionHandler(exception = Exception.class)
+//	@ResponseStatus(code = HttpStatus.BAD_REQUEST)
+	public ResponseEntity getExceptionDetails(Exception e) {
+		var reponseBody = new Object() {
+			public String getStatus() {
+				return HttpStatus.BAD_REQUEST.toString();
+			}
+			
+			public String getMessage() { return e.getMessage(); }
+		};
+		
+		return ResponseEntity
+				.status(HttpStatus.BAD_REQUEST)
+				.body(reponseBody);
 	}
 }

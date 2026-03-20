@@ -8,20 +8,19 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
+import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.gal.model.CabAssignment;
-import com.gal.model.Employee;
 import com.gal.model.EmployeeTransportDTO;
 import com.gal.request.CabAssignmentRequest;
 import com.gal.service.EmployeeService;
@@ -34,30 +33,35 @@ public class EmployeeTransportController {
 	@Autowired
 	EmployeeService service;
 	
-	@GetMapping("/name")
-	public ResponseEntity<String> getEmployeeByName(
-			@RequestParam(name="firstName") String firstName,
-			@RequestParam(name="lastName") String lastName
+	@RequestMapping(
+		value = "/byName",
+		method = RequestMethod.GET,
+		produces = {MediaType.APPLICATION_JSON_VALUE, MediaType.APPLICATION_XML_VALUE}
+	)
+	public EmployeeTransportDTO getEmployeeByName(
+			@RequestParam(name="firstName") String firstName
 	) throws JsonProcessingException 
 	
 	{
-		log.info("Fetching employees by name: {} {}", firstName, lastName);
+		log.info("Fetching employees by first name: {}", firstName);
 //		List<Employee> employees = service.findByName(firstName, lastName);
-		Employee e = new Employee();
-		e.setEmployeeId(1);
-		e.setEmail("example@gmail.com");
+//		Employee e = new Employee();
+//		e.setEmployeeId(1);
+//		e.setEmail("example@gmail.com");
 		
-		ObjectMapper mapper = new ObjectMapper();
-		String str = mapper.writeValueAsString(e);
+		return service.findByFirstName(firstName);
 		
-		ResponseEntity.ok().body(str);
-
-		ResponseEntity.status(HttpStatus.CREATED).body(str);
-		ResponseEntity.status(HttpStatus.NO_CONTENT);
-
-		return ResponseEntity.ok()
-			.header("content-type", "application/json")
-			.body(str);
+//		ObjectMapper mapper = new ObjectMapper();
+//		String str = mapper.writeValueAsString(e);
+//		
+//		ResponseEntity.ok().body(str);
+//
+//		ResponseEntity.status(HttpStatus.CREATED).body(str);
+//		ResponseEntity.status(HttpStatus.NO_CONTENT);
+//
+//		return ResponseEntity.ok()
+//			.header("content-type", "application/json")
+//			.body(str);
 	}
 	
 	@GetMapping("/all")

@@ -15,4 +15,6 @@ public interface EmployeeService {
 	EmployeeTransportDTO getCabAssignment(int empId, LocalDate date);
 	
 	CabAssignment addCabAssignment(int empId, int cabId, LocalDate date);
+	
+	EmployeeTransportDTO findByFirstName(String firstName);
 }

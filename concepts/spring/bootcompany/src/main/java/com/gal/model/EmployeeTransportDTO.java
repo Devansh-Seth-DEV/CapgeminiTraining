@@ -2,6 +2,9 @@ package com.gal.model;
 
 import java.time.LocalDate;
 
+import jakarta.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
 public class EmployeeTransportDTO {
 	private int employeeId;
 	private String firstName;
@@ -13,6 +16,7 @@ public class EmployeeTransportDTO {
 	private Cab cab;
 	private LocalDate cabAssignedDate;
 	
+	public EmployeeTransportDTO() {}
 	
 	public EmployeeTransportDTO(Employee e) {
 		this.employeeId = e.getEmployeeId();

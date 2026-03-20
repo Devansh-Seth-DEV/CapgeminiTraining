@@ -69,4 +69,11 @@ public class EmployeeServiceImpl
 		
 		return saved;
 	}
+
+	@Override
+	public EmployeeTransportDTO findByFirstName(String firstName) {
+		List<Employee> emp = employeeRepo.findByFirstName(firstName);
+		if (emp.isEmpty()) return null;
+		return new EmployeeTransportDTO(emp.get(0));
+	}
 }
