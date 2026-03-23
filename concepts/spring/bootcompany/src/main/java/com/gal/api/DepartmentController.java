@@ -39,10 +39,13 @@ public class DepartmentController {
 //	@ResponseBody // returned string is not a view template (not html or jsp)
 	// it is the actual response body
 	public ResponseEntity getDepartment(@RequestParam(name = "id") int deptid) {
-		log.debug("request for deparmentId: 10");
 		Department department = deptService.find(deptid);
-		if (department == null)
-			return ResponseEntity.notFound().build();
+		if (department == null) {
+			var exception = new MyGlobalExceptionHandler();
+			return exception.returnDepartmentNotFoundException(
+					new Exception("No department found")
+			);
+		}
 		
 		return ResponseEntity.ok().body(department);
 	}

@@ -16,12 +16,12 @@ import com.gal.service.DepartmentServiceImpl2;
 
 @SpringBootApplication
 public class BootcompanyApplication {
-	private final DepartmentServiceImpl2 deptServiceImpl;
+//	private final DepartmentServiceImpl2 deptServiceImpl;
 	private static final Logger log = LoggerFactory.getLogger(BootcompanyApplication.class);
 	
-	public BootcompanyApplication(DepartmentServiceImpl2 service) {
-		this.deptServiceImpl = service;
-	}
+//	public BootcompanyApplication(DepartmentServiceImpl2 service) {
+//		this.deptServiceImpl = service;
+//	}
 
 	public static void main(String[] args) {
 		ConfigurableApplicationContext context = SpringApplication.run(BootcompanyApplication.class, args);
