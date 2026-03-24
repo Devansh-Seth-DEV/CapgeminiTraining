@@ -2,7 +2,7 @@ package com.library.service;
 
 import java.util.List;
 
-import com.library.bootstrap.UserDataSeeder;
+import com.library.bootstrap.DataSeeder;
 import com.library.dao.UserDAO;
 import com.library.model.User;
 
@@ -10,7 +10,7 @@ public class UserService {
 	private static final UserDAO userDAO = new UserDAO();
 
 	public void createSampleUsers() {
-		List<User> users = UserDataSeeder.getSeed();
+		List<User> users = DataSeeder.get(User.class);
 		userDAO.saveAll(users);
 	}
 	

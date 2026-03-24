@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import com.library.dto.BookSummaryDTO;
 import com.library.model.Author;
 import com.library.model.Book;
 import com.library.model.BorrowedBook;
@@ -12,8 +13,20 @@ import com.library.service.AuthorService;
 import com.library.service.BookService;
 import com.library.service.BorrowService;
 import com.library.service.UserService;
+import com.mysql.cj.conf.ConnectionUrlParser.Pair;
 
 public class DevTestRunner {
+	public void run() {
+    	createSampleEntities();
+    	testBookFindAll();
+    	testBookUpdateTitleById("Head First Java: 2nd Edition");
+    	testBookDeleteById();
+    	testBorrowFindAll();
+    	testBorrowFindByLibraryCardNumber();
+    	testAuthorFindAuthorAndBookCountAuthorNative();
+    	testBookFindBookSummaryById();
+	}
+
 	private static final Map<Class<?>, Object> services = new HashMap<>();
 	
 	static {
@@ -23,14 +36,6 @@ public class DevTestRunner {
 		services.put(BorrowedBook.class, new BorrowService());
 	}
 	
-	public void run() {
-    	createSampleEntities();
-    	testBookFindAll();
-    	testBookUpdateTitleById("Head First Java: 2nd Edition");
-    	testBookDeleteById();
-    	testBorrowFindAll();
-    	testBorrowFindByLibraryCardNumber();
-	}
 	
 	@SuppressWarnings("unchecked")
 	public <T, S> S getService(Class<T> entityClass) {
@@ -60,11 +65,6 @@ public class DevTestRunner {
 		BookService bookService = getService(Book.class);
 		List<Book> books = bookService.findAll();
 		System.out.println("Book Titles: [");
-
-//		if (books.isEmpty()) {
-//			System.out.println("]");
-//			return;
-//		}
 
 		for(Book b: books) {
 			if (b != books.getLast())
@@ -192,5 +192,30 @@ public class DevTestRunner {
 				user.getLastName()));
 		System.out.println("    \"borrow_date\": \"%s\"".formatted(b.getBorrowDate()));
 		System.out.println("  }\n]");
+	}
+	
+	public void testAuthorFindAuthorAndBookCountAuthorNative() {
+		AuthorService authorService = getService(Author.class);
+		List<Pair<Author, Long>> list = authorService.findAuthorAndBookCountNative();
+		
+		System.out.println("Authors: Total Books");
+		for(Pair<Author, Long> pair: list) {
+			Author author = pair.left;
+			Long bookCount = pair.right;
+			
+			System.out.println(author.getFirstName() + " " + author.getLastName() + ": " + bookCount);
+		}
+	}
+	
+	public void testBookFindBookSummaryById() {
+		BookService bookService = getService(Book.class);
+		BookSummaryDTO bookSummary = bookService.findBookSummaryById(1);
+		
+		System.out.println("Summary of Book 1:");
+
+		System.out.println("{");
+		System.out.println("  \"title\": \"%s\",".formatted(bookSummary.getTitle()));
+		System.out.println("  \"isbn\": \"%s\"".formatted(bookSummary.getIsbn()));
+		System.out.println("}");
 	}
 }

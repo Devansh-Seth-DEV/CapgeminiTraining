@@ -27,8 +27,8 @@ public class User {
 	@Column(unique = true)
 	private String email;
 	
-	@OneToOne(cascade = CascadeType.ALL, orphanRemoval = false)
 	// This creates the Foreign Key column in the 'users' table
+	@OneToOne(cascade = CascadeType.ALL, orphanRemoval = false)
 	@JoinColumn(name = "card_id")
 	private LibraryCard libraryCard;
 	

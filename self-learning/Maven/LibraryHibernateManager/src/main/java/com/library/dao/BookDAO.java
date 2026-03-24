@@ -3,6 +3,7 @@ package com.library.dao;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.library.dto.BookSummaryDTO;
 import com.library.model.Book;
 import com.library.util.PersistenceManager;
 
@@ -10,6 +11,27 @@ import jakarta.persistence.EntityManager;
 import jakarta.persistence.TypedQuery;
 
 public class BookDAO {
+	public BookSummaryDTO findBookSummaryById(int bookId) {
+		try (EntityManager em = PersistenceManager.getEntityManagerFactory()
+				.createEntityManager()) {
+			String hql = """
+					SELECT
+						NEW com.library.dto.BookSummaryDTO(b.title, b.isbn)
+					FROM
+						Book b
+					WHERE
+						b.bookId = :bookId
+					""";
+			TypedQuery<BookSummaryDTO> query = em.createQuery(hql, BookSummaryDTO.class);
+			query.setParameter("bookId", bookId);
+			BookSummaryDTO dto = query.getSingleResult();
+			return dto;
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return null;	
+	}
+
 	public void save(Book book) {
 		try (EntityManager em = PersistenceManager.getEntityManagerFactory()
 				.createEntityManager()) {
@@ -100,4 +122,5 @@ public class BookDAO {
 			e.printStackTrace();
 		}
 	}
+	
 }

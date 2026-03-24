@@ -3,14 +3,16 @@ package com.library.service;
 import java.util.List;
 
 import com.library.bootstrap.BookDataSeeder;
+import com.library.bootstrap.DataSeeder;
 import com.library.dao.BookDAO;
+import com.library.dto.BookSummaryDTO;
 import com.library.model.Book;
 
 public class BookService {
 	private static final BookDAO bookDAO = new BookDAO();
 	
 	public void createSampleBooks() {
-		List<Book> books = BookDataSeeder.getSeed();
+		List<Book> books = DataSeeder.get(Book.class);
 		bookDAO.saveAll(books);
 	}
 	
@@ -33,5 +35,9 @@ public class BookService {
 
 	public void deleteById(int bookId) {
 		bookDAO.deleteById(bookId);
+	}
+	
+	public BookSummaryDTO findBookSummaryById(int bookId) {
+		return bookDAO.findBookSummaryById(bookId);
 	}
 }
